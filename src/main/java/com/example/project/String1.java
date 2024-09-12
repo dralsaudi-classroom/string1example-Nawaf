@@ -46,4 +46,4 @@ public class String1 {
             str[this.length() -i - 1] = str[i];
             str[i] = temp;
         }
-}
+} }
